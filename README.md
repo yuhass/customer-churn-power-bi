@@ -27,3 +27,9 @@ This project analyzes customer churn using Power BI to identify key drivers.
 This project uses a customer churn dataset from Kaggle containing customer demographics, account information, services, contract types, payment methods, tenure, monthly charges, and churn status.
 
 **Source:** [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+## Project Structure
+
+- `File for Telecom Project.pbix` — Power BI project file
+- `churn-dashboard.png..png` — Dashboard preview image
+- `README.md` — Project documentation
