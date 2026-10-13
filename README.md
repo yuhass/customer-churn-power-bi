@@ -1,2 +1,1 @@
-# customer-churn-power-bi
-Customer churn analysis project built with Power BI
+Customer Churn Analysis in ower BI
