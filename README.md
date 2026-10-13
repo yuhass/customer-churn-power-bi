@@ -21,3 +21,9 @@ This project analyzes customer churn using Power BI to identify key drivers.
 - Encourage month-to-month to move to longer contracts with incentives.
 - Focus on retention in the first twelve months
 - Provide targeted support to high-risk groups.
+
+## Dataset
+
+This project uses a customer churn dataset from Kaggle containing customer demographics, account information, services, contract types, payment methods, tenure, monthly charges, and churn status.
+
+**Source:** Kaggle
