@@ -16,3 +16,8 @@ This project analyzes customer churn using Power BI to identify key drivers.
 ## Key Findings
 - Customers on month-to-month contracts have the highest churn rate at 42.71%.
 - Customers with zero to twelve months tenure have the highest churn rate at 47.44%.
+
+## Recommendtaions
+- Encourage month-to-month to move to longer contracts with incentives.
+- Focus on retention in the first twelve months
+- Provide targeted support to high-risk groups.
