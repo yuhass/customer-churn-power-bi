@@ -9,3 +9,6 @@ This project analyzes customer churn using Power BI to identify key drivers.
 - Power BI
 - Power Query
 - DAX
+
+## Dashboard Preview
+![Customer Churn Dashboard](churn-dashboard.png..png)
