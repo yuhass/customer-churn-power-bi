@@ -11,7 +11,7 @@ This project analyzes customer churn using Power BI to identify key drivers.
 - DAX
 
 ## Dashboard Preview
-![Customer Churn Dashboard](churn-dashboard.png..png)
+![Customer Churn Analysis Dashboard](churn-dashboard.png)
 
 ## Key Findings
 - Customers on month-to-month contracts have the highest churn rate at 42.71%.
@@ -31,5 +31,5 @@ This project uses a customer churn dataset from Kaggle containing customer demog
 ## Project Structure
 
 - `File for Telecom Project.pbix` — Power BI project file
-- `churn-dashboard.png..png` — Dashboard preview image
+- `churn-dashboard.png` — Dashboard preview image
 - `README.md` — Project documentation
