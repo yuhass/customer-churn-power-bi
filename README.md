@@ -1,1 +1,1 @@
-Customer Churn Analysis in ower BI
+Customer Churn Analysis in Power BI
